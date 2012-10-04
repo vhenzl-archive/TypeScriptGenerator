@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaH.CodeGenerators.Common", "VaH.CodeGenerators.Common\VaH.CodeGenerators.Common.csproj", "{18B39166-7401-492B-97F3-AD077BCDD4C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaH.CodeGenerators.TypeScript", "VaH.CodeGenerators.TypeScript\VaH.CodeGenerators.TypeScript.csproj", "{1B1335B3-30C9-45D5-820B-653683F6F5CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{18B39166-7401-492B-97F3-AD077BCDD4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18B39166-7401-492B-97F3-AD077BCDD4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18B39166-7401-492B-97F3-AD077BCDD4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1335B3-30C9-45D5-820B-653683F6F5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1335B3-30C9-45D5-820B-653683F6F5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1335B3-30C9-45D5-820B-653683F6F5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1335B3-30C9-45D5-820B-653683F6F5CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
