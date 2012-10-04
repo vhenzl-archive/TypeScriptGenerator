@@ -5,6 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaH.CodeGenerators.Common",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaH.CodeGenerators.TypeScript", "VaH.CodeGenerators.TypeScript\VaH.CodeGenerators.TypeScript.csproj", "{1B1335B3-30C9-45D5-820B-653683F6F5CC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Readme", "Readme", "{511EC7C0-8CCB-4991-BBA1-3DE71A0710AD}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
