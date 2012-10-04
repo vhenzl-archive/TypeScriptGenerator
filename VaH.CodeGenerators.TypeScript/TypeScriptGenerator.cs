@@ -44,7 +44,7 @@ namespace VaH.CodeGenerators.TypeScript
 					if (process.ExitCode != 0)
 					{
 						string error = stdErr.ReadToEnd();
-						GeneratorWarning(0, error, 0, 0);
+						GeneratorError(0, error, 0, 0);
 					}
 
 					var js = File.ReadAllText(outputJs);
