@@ -9,7 +9,7 @@ using Microsoft.Samples.VisualStudio.GeneratorSample;
 
 namespace VaH.CodeGenerators.TypeScript
 {
-	[Guid("f51c1bcf-67d9-49b8-be9b-cf8efcdec658")]
+	[Guid("f1995ea3-9766-4e74-b841-06b6444ece5b")]
 	public class TypeScriptGenerator : BaseCodeGeneratorWithSite
 	{
 
