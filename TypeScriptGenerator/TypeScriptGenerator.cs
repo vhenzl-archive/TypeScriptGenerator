@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.IO;
 using Microsoft.Samples.VisualStudio.GeneratorSample;
 
-namespace VaH.CodeGenerators.TypeScript
+namespace TypeScriptGenerator
 {
 	[Guid("f1995ea3-9766-4e74-b841-06b6444ece5b")]
 	public class TypeScriptGenerator : BaseCodeGeneratorWithSite

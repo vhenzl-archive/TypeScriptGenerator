@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("VaH.CodeGenerators.TypeScript")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("TypeScriptGenerator")]
+[assembly: AssemblyDescription("Code generator for TypeScript")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("VaH.CodeGenerators.TypeScript")]
+[assembly: AssemblyProduct("TypeScriptGenerator")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -1,9 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaH.CodeGenerators.Common", "VaH.CodeGenerators.Common\VaH.CodeGenerators.Common.csproj", "{18B39166-7401-492B-97F3-AD077BCDD4C2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaH.CodeGenerators.TypeScript", "VaH.CodeGenerators.TypeScript\VaH.CodeGenerators.TypeScript.csproj", "{1B1335B3-30C9-45D5-820B-653683F6F5CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeScriptGenerator", "TypeScriptGenerator\TypeScriptGenerator.csproj", "{1B1335B3-30C9-45D5-820B-653683F6F5CC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Readme", "Readme", "{511EC7C0-8CCB-4991-BBA1-3DE71A0710AD}"
 	ProjectSection(SolutionItems) = preProject
